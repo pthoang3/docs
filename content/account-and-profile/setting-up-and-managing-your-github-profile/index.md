@@ -4,7 +4,7 @@ intro: You can customize your GitHub profile and manage your contribution graph.
 shortTitle: Profiles
 redirect_from:
   - /categories/setting-up-and-managing-your-github-profile
-  - /github/setting-up-and-managing-your-github-profile
+  - /github/setting-up-and-managing-your-github-profiles
 versions:
   fpt: '*'
   ghes: '*'
